@@ -1,4 +1,4 @@
-# IQbusiness | Fraud Detection MVP — Companies House UK
+# Fraud Detection MVP — Companies House UK
 
 Detects potentially fraudulent company registrations in the Companies House UK database using unsupervised anomaly detection.
 
